@@ -6,7 +6,7 @@
 		"Andrew Whitworth",
 		"Alexia E. Smith"
 	],
-	"url": "http://www.mediawiki.org/wiki/Extension:EmbedVideo",
+	"url": "https://github.com/wiki-chan/EmbedVideo",
 	"descriptionmsg": "embedvideo_description",
 	"license-name": "MIT",
 	"type": "parserhook",

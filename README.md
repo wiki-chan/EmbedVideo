@@ -1,7 +1,7 @@
 #EmbedVideo
-The EmbedVideo Extension is a MediaWiki extension which adds a parser function called `#ev` for embedding video clips from over 22 popular video sharing services in multiple languages and countries. For more information about EmbedVideo, to download, to contribute, and to report bugs and problems, visit the GitHub project page(https://github.com/Alexia/mediawiki-embedvideo).
+The EmbedVideo Extension is a MediaWiki extension which adds a parser function called `#ev` for embedding video clips from over 22 popular video sharing services in multiple languages and countries. For more information about EmbedVideo, to download, to contribute, and to report bugs and problems, visit the GitHub project page(https://github.com/wiki-chan/EmbedVideo).
 
-Issues, bug reports, and feature requests may be created at the issue tracker(https://github.com/Alexia/mediawiki-embedvideo/issues).
+Issues, bug reports, and feature requests may be created at the original GitHub project page's issue tracker(https://github.com/Alexia/mediawiki-embedvideo/issues).
 
 ##History
 The original version of EmbedVideo was created by Jim R. Wilson.  That version was later forked by Mohammed Derakhshani as the EmbedVideoPlus extension.  In early 2010 Andrew Whitworth took over active maintenance of both extensions and merged them together as "EmbedVideo".  Much later on in September 2014 Alexia E. Smith forcefully took over being unable to contact a current maintainer.
@@ -16,7 +16,7 @@ EmbedVideo is released under the [MIT license](http://www.opensource.org/license
 ##Download
 If you have git, you can use this incantation to check out a read-only copy of the extension source:
  ```
-git clone https://github.com/Alexia/mediawiki-embedvideo.git
+git clone https://github.com/wiki-chan/EmbedVideo.git
 ```
 
 Downloadable archive packages for numbered releases will also be available from the github project page.
